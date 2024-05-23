@@ -19,6 +19,7 @@ butt1.addEventListener("click",()=>{
   if (present==="notClicked"){
     present= "clicked";
     Clicked();
+    window.location.href = 'https://youtu.be/Y_oAw6VVizc/';
   }
   else if (present==="clicked"){
     present= "notClicked";
